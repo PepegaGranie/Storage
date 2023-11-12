@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-12T13:53:24.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ESpWekxOLB-0Jo2gDihy" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-12T14:11:47.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="hgompCp66Q8pM6r1VNB5" version="22.1.0" type="github">
   <diagram name="Strona-1" id="-qNimi1rRFu84z_x32jF">
-    <mxGraphModel dx="3447" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3088" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
             <mxPoint x="-960" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sq6BDrDwM5FwB20v1xCq-516" value="kabel RJ-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sq6BDrDwM5FwB20v1xCq-431">
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-516" value="Połączenie za pomocą kabla RJ-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sq6BDrDwM5FwB20v1xCq-431">
           <mxGeometry x="-0.1625" y="-3" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -474,7 +474,7 @@
             <mxPoint x="-440" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Sq6BDrDwM5FwB20v1xCq-515" value="Światłowód" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sq6BDrDwM5FwB20v1xCq-511">
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-515" value="Połączenie za pomocą kabla światłowodowego" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Sq6BDrDwM5FwB20v1xCq-511">
           <mxGeometry x="-0.0264" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -493,6 +493,66 @@
         </mxCell>
         <mxCell id="Sq6BDrDwM5FwB20v1xCq-520" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Piętro 2&lt;br&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1620" y="255" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-521" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Diagram działania sieci w 2-pietrowym budynku&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1510" y="30" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-523" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Połączenie za pomocą kabli RJ-45&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="370" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-527" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Połączenie za pomocą kabli RJ-45&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="590" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-528" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Połączenie za pomocą kabli RJ-45&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1070" y="802" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-532" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="190" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-533" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="190" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-534" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-970" y="90" width="530" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-535" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="420" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-536" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="420" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-537" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-1470" y="640" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-541" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="640" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-543" value="" style="shape=crossbar;whiteSpace=wrap;html=1;rounded=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="200" width="20" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-545" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-760" y="70" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-546" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="560" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-547" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-790" y="180" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-548" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1340" y="180" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-549" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-810" y="410" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-550" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="410" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-551" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="630" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Sq6BDrDwM5FwB20v1xCq-552" value="Wymiana danych" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1350" y="630" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
